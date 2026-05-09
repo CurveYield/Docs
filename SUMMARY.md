@@ -2,6 +2,7 @@
 
 * [Introducing the CurveYield Protocol](README.md)
 * [How CurveYield Lending scrvUSD Works](how-curveyield-lending-scrvusd-works.md)
+* [How CurveYield crvUSD IPOR Vault Works](how-curveyield-crvusd-ipor-vault-works.md)
 * [CurveYield Lending scrvUSD Components](curveyield-lending-scrvusd-components/README.md)
   * [cylscrvUSD - Morpho V2 Vault Token and Liquidity Allocator](curveyield-lending-scrvusd-components/cylscrvusd-morpho-v2-vault-token-and-liquidity-allocator.md)
   * [aCRV -  Lending/Borrowing Market](curveyield-lending-scrvusd-components/acrv-lending-borrowing-market.md)
@@ -9,4 +10,8 @@
   * [asdCRV Lending/Borrowing Market](curveyield-lending-scrvusd-components/asdcrv-lending-borrowing-market.md)
   * [yvCurve-yYB-f -  Lending/Borrowing Market](curveyield-lending-scrvusd-components/yvcurve-yyb-f-lending-borrowing-market.md)
   * [cylscrvUSD - Curve Oracle Stable Pool](curveyield-lending-scrvusd-components/cylscrvusd-curve-oracle-stable-pool.md)
+* [CurveYield crvUSD IPOR Vault Components](curveyield-crvusd-ipor-vault-components/README.md)
+  * [CurveYield crvUSD Base Vault (cy-crvUSD)](curveyield-crvusd-ipor-vault-components/curveyield-crvusd-base-vault-cy-crvusd.md)
+  * [CurveYield crvUSD Ethereum Vault (cy-crvUSD)](curveyield-crvusd-ipor-vault-components/curveyield-crvusd-ethereum-vault-cy-crvusd.md)
+  * [IPOR Fusion Vault Infrastructure](curveyield-crvusd-ipor-vault-components/ipor-fusion-vault-infrastructure.md)
 * [Contracts](contracts.md)

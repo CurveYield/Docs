@@ -2,6 +2,10 @@
 
 | Contract                                      | Address                                                                                                               |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CurveYield crvUSD IPOR Vault - Ethereum (cy-crvUSD) | [0xE31Aa86e21e420d03E52AaA06C349BDC525a664F](https://etherscan.io/address/0xE31Aa86e21e420d03E52AaA06C349BDC525a664F) |
+| CurveYield crvUSD IPOR Vault - Base (cy-crvUSD) | [0x574D968Dea29F6D488E03392A28A3E230D0f76d9](https://basescan.org/address/0x574D968Dea29F6D488E03392A28A3E230D0f76d9) |
+| CurveYield Base Keeper                        | [0x50bA5cC6F493B8113640bE496899Adc11da879f5](https://basescan.org/address/0x50bA5cC6F493B8113640bE496899Adc11da879f5) |
+| crvUSD Stablecoin on Base                     | [0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93](https://basescan.org/address/0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93) |
 | CurveYield Lending scrvUSD Vault (cylscrvUSD) | [0x594Be6816Ff2EEae7Db4f3EA8F9e81F0CCc94444](https://etherscan.io/address/0x594Be6816Ff2EEae7Db4f3EA8F9e81F0CCc94444) |
 | Savings crvUSD (scrvUSD)                      | [0x0655977FEb2f289A4aB78af67BAB0d17aAb84367](https://etherscan.io/address/0x0655977FEb2f289A4aB78af67BAB0d17aAb84367) |
 | crvUSD Stablecoin (crvUSD)                    | [0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E](https://etherscan.io/address/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E) |
